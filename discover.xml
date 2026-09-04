@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+    <NAT_Discover Version="3.0" Description="WMI Classes queried by Mini Discover">
+        <Class>Win32_PhysicalMemory</Class>
+        <Class>Win32_PhysicalMemoryArray</Class>
+        <Class>Win32_OperatingSystem</Class>
+        <Class>Win32_ComputerSystem</Class>
+        <Class>Win32_SystemEnclosure</Class>
+        <Class>Win32_BaseBoard</Class>
+        <Class>Win32_Processor</Class>
+        <Class>Win32_BIOS</Class>
+        <Class>Win32_Service</Class>
+        <Class>Win32_SystemDriver</Class>
+        <Class>Win32_Printer</Class>
+	<Class>Win32_NetworkAdapterConfiguration</Class>
+    </NAT_Discover>
+    
