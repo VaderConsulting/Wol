@@ -27,4 +27,4 @@ Company names in `.vbp` files: Dave Robinson. Portions noted from NAT in version
 
 ## License
 
-MIT © 2026 VaderConsulting for Dave Robinson's code. See `LICENSE`.
+MIT © 2026 Vader Consulting for Dave Robinson's code. See `LICENSE`.
